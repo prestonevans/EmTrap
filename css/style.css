@@ -129,3 +129,9 @@ input,
 select {
 	vertical-align: middle;
 }
+ul {
+	font-size: 2em;
+}
+body li {
+	font-size: 2em;
+}
